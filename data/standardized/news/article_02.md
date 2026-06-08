@@ -1,0 +1,32 @@
+# Ca sĩ Châu Việt Cường hầu tòa vì nhét tỏi hại chết cô gái 20 tuổi
+
+**Source:** https://vnexpress.net/ca-si-chau-viet-cuong-hau-toa-vi-nhet-toi-hai-chet-co-gai-20-tuoi-3890738.html
+**Crawled:** 2026-06-08T11:39:40.785209
+
+---
+
+Sáng 7/3, TAND Hà Nội mở phiên sơ thẩm xét xử Nguyễn Việt Cường (tức Châu Việt Cường, 42 tuổi, ca sĩ) về tội _Giết người_ theo khoản 2 điều 123 Bộ Luật hình sự 2015, khung hình phạt từ bảy năm đến 15 năm tù. Liên quan vụ án, Phạm Đức Thế (37 tuổi, bạn của Cường) bị xét xử về tội _Tàng trữ trái phép chất ma túy_.
+
+Khi cảnh sát dẫn giải Cường vào phòng xét xử, mẹ nạn nhân cầm di ảnh của con đứng ở ngoài hành lang đã òa khóc.
+
+![Image 1: Châu Việt Cường bị cảnh sát áp giải trong sáng 7/3.](https://vcdn1-vnexpress.vnecdn.net/2019/03/07/cuong1-4049-1551927083-8406-1551927501.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=yTiIHgkHR2OH0sQN8LX-gA)
+
+Châu Việt Cường bị cảnh sát áp giải trong sáng 7/3.
+
+Theo cáo buộc, khoảng 0h ngày 5/3/2018, Cường đi diễn ở tỉnh Hà Nam về đến Hà Nội, gọi điện thoại cho Thế để xin ngủ nhờ, sáng hôm sau vào TP HCM. Cường rủ thêm một ca sĩ khác và hai cô gái cùng tới.
+
+Trong khi đợi Cường tới, Thế chuẩn bị ma túy đá để cùng sử dụng. Sau khi "đập đá" cùng cả nhóm,Cường còn tiếp tục sử dụng một loại ma túy khác rồi rủ cô gái 20 tuổi vào phòng quan hệ tình dục. Lúc sau, đôi này cùng các bạn lần thứ ba dùng ma túy.
+
+8h, Cường mang hành lý ra sân bay vào TP HCM biểu diễn. Song anh ta và cô gái bị ảo giác nên khóc, vái lạy nhau.
+
+![Image 2: Bà Nguyễn Thị Hường, mẹ cô gái chết trong vụ án đến tòa từ sớm, kêu khóc.](https://vcdn1-vnexpress.vnecdn.net/2019/03/07/me-7853-1551923623.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=m_O6alC2SDtIf3NJc7Cvmg)
+
+Bà Nguyễn Thị Hường đến tòa từ sớm, kêu khóc khi mất con.
+
+Trong lúc cô gái ngồi khóc tại phòng ngủ, Cường chạy xuống sân gặp người bán rau, bốc một nắm tỏi rồi chạy lên nhà ném vào cô gái. Anh ta còn nhét 33 nhánh tỏi vào miệng cô này khiến nạn nhân tử vong.
+
+Châu Việt Cường là ca sĩ theo đuổi dòng nhạc thị trường với các ca khúc được giới trẻ biết đến như _Liều thuốc yêu, Bạc trắng tình đời, Nước mắt chảy tuôn, Tình chết_...
+
+Phiên tòa dự kiến diễn ra trong một ngày.
+
+**Việt Dũng**

@@ -1,0 +1,38 @@
+# Rapper Bình 'Gold' bị bắt vì cướp tài sản, dương tính với ma túy
+
+**Source:** https://tuoitre.vn/rapper-binh-gold-bi-bat-vi-cuop-tai-san-duong-tinh-voi-ma-tuy-20250726185902989.htm
+**Crawled:** 2026-06-08T11:40:27.370573
+
+---
+
+[![Image 1: rapper Bình - Ảnh 1.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/7/26/base64-17535307929671515512657.jpeg)](https://cdn2.tuoitre.vn/471584752817336320/2025/7/26/base64-17535307929671515512657.jpeg)
+
+Nghi phạm Vũ Xuân Bình tại cơ quan công an - Ảnh: Công an cung cấp
+
+Tối 26-7, Công an thành phố Hà Nội cho biết các đơn vị nghiệp vụ Công an thành phố vừa bắt giữ Vũ Xuân Bình (28 tuổi, còn gọi là rapper Bình "Gold", thường trú tại Hải Phòng, chỗ ở hiện nay Phú Thượng, Hà Nội) để điều tra về hành vi cướp tài sản.
+
+Trước đó, khoảng 10h cùng ngày, Tổng đài 113 - Trung tâm Thông tin chỉ huy Công an thành phố Hà Nội nhận được tin báo của anh N.V.B. (lái xe [taxi](https://tuoitre.vn/taxi.html "taxi")) về việc anh B. chở một nam thanh niên lên đường trên cao (vành đai 3) gần khu vực Trung tâm Hội nghị quốc gia.
+
+Tại đây, anh bị nam thanh niên đe dọa, thấy dấu hiệu bất thường nên anh B. bỏ chạy ra ngoài. Nam thanh niên liền điều khiển xe taxi bỏ chạy, trên xe có điện thoại, ví tiền của anh B.
+
+Nhận được thông tin, tổ công tác Công an phường Đại Mỗ đã đến hiện trường và phối hợp lực lượng cảnh sát hình sự, cảnh sát giao thông khẩn trương truy bắt đối tượng.
+
+Đến khoảng 10h55 cùng ngày, tổ công tác của Công an phường Đại Mỗ đã bắt giữ được Vũ Xuân Bình (còn gọi là rapper Bình "Gold") tại khu vực đường gom vành đai 3, đoạn tiếp giáp nghĩa trang Cự Khối, phường Long Biên, Hà Nội. Thu hồi xe taxi, điện thoại, ví là tài sản của anh N.V.B..
+
+[![Image 2: rapper Bình - Ảnh 2.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/7/26/base64-175353083474273171189.jpeg)](https://cdn2.tuoitre.vn/471584752817336320/2025/7/26/base64-175353083474273171189.jpeg)
+
+Nghi phạm Bình thời điểm mới bị bắt - Ảnh: MXH
+
+‎Qua điều tra, bước đầu xác định khoảng 9h10 cùng ngày, anh N.V.B. đang dừng đón khách tại vệ đường khu vực phường Phú Thượng, thì thấy Bình đi bộ đến yêu cầu chở đi Bắc Ninh.
+
+Khi đi được khoảng 1km, Bình đã lấy điện thoại di động của anh B. (trên ghế phụ) và dùng tay quàng vào cổ tài xế để đe dọa yêu cầu lái xe ra đường Phạm Văn Đồng.
+
+‎Khi đi qua lối rẽ hướng ra Đại lộ Thăng Long khoảng 100m (gần khu vực cổng số 2 Trung tâm Hội nghị quốc gia) thì tắc đường nhưng Bình vẫn yêu cầu lái xe đi vào làn đường khẩn cấp để đi tiếp.
+
+Thấy nghi phạm lơ là không để ý, anh B. đã xuống xe bỏ chạy. Lúc này Bình lên ghế lái, điều khiển xe taxi bỏ chạy theo hướng đường cầu Thanh Trì.
+
+Khi di chuyển đến đoạn đường gom vành đai 3, đoạn tiếp giáp với nghĩa trang Cự Khối, phường Long Biên, Bình bị cơ quan công an bắt giữ. ‎
+
+‎Tại cơ quan công an, Bình đã khai nhận hành vi phạm tội. Kiểm tra nhanh, phát hiện Bình dương tính với ma túy ketamin, cần sa. ‎
+
+[Đọc tiếp](https://tuoitre.vn/rapper-binh-gold-bi-bat-vi-cuop-tai-san-duong-tinh-voi-ma-tuy-20250726185902989.htm# "Đọc tiếp")[Về trang Chủ đề](https://tuoitre.vn/nhom-chu-de.htm "Về trang chủ đề")

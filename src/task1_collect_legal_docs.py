@@ -31,10 +31,6 @@ LEGAL_DOCS = [
         "filename": "luat-phong-chong-ma-tuy-2021.pdf",
     },
     {
-        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/12/105.signed_02.pdf",
-        "filename": "nghi-dinh-105-2021.pdf",
-    },
-    {
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/135-vbhn-vpqh.pdf",
         "filename": "bo-luat-hinh-su-2015.pdf",
     },

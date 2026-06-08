@@ -1,0 +1,30 @@
+# Rapper Bình 'Gold' bị bắt vì cướp taxi, dương tính với ma túy
+
+**Source:** https://vietnamnet.vn/rapper-binh-gold-bi-bat-vi-cuop-taxi-duong-tinh-voi-ma-tuy-2426027.html
+**Crawled:** 2026-06-08T11:40:46.519445
+
+---
+
+Ngày 26/7, Công an TP Hà Nội cho biết, các đơn vị nghiệp vụ vừa bắt giữ Vũ Xuân Bình (SN 1997; thường trú tại Hải Phòng; hiện ở Phú Thượng, Hà Nội) để điều tra về hành vi cướp tài sản.
+
+![Image 1: z6843835338590_640548b1ff8ae9be4648859c2db84687.jpg](https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/7/26/z6843835338590-640548b1ff8ae9be4648859c2db84687-1882.jpg?width=260&s=kzS6h0E2ogORIKpJBRPLHw)
+
+Đối tượng Vũ Xuân Bình. Ảnh: CACC
+
+Trước đó, khoảng 10h cùng ngày, Tổng đài 113 - Trung tâm Thông tin Chỉ huy Công an TP Hà Nội nhận được tin báo của anh N.V.B. (lái xe taxi) về việc: Anh B. chở một nam thanh niên lên đường trên cao (Vành đai 3), gần khu vực Trung tâm Hội nghị Quốc gia thì bị người này đe dọa. Thấy dấu hiệu bất thường, anh B. bỏ chạy ra ngoài, còn nam thanh niên đã điều khiển xe taxi bỏ trốn, trên xe có điện thoại và ví tiền của anh B.
+
+Ngay sau đó, thông tin được chuyển đến các đơn vị nghiệp vụ Công an TP Hà Nội. Nhận được tin báo, tổ công tác Công an phường Đại Mỗ đã đến hiện trường và phối hợp với lực lượng Cảnh sát hình sự, Cảnh sát giao thông Công an TP khẩn trương truy bắt đối tượng.
+
+Đến khoảng 10h55, tổ công tác Công an phường Đại Mỗ đã bắt giữ được đối tượng gây án là Vũ Xuân Bình (tức rapper Bình "Gold") tại khu vực đường gom Vành đai 3, đoạn tiếp giáp nghĩa trang Cự Khối, phường Long Biên, Hà Nội. Tổ công tác đã thu hồi được xe taxi, điện thoại và ví là tài sản của anh N.V.B.
+
+Qua điều tra, bước đầu xác định: Khoảng 9h10 ngày 26/7, anh N.V.B. đang dừng xe đón khách tại vỉa hè đối diện tòa S2, chung cư Sunshine City, khu đô thị Ciputra, phường Phú Thượng thì thấy Bình đi bộ đến và yêu cầu chở về Bắc Ninh.
+
+Khi xe đi được khoảng 1km, Bình lấy điện thoại di động hiệu Xiaomi của anh B. đặt trên ghế phụ, đồng thời dùng tay phải quàng cổ anh B., đe dọa và yêu cầu điều khiển xe ra đường Phạm Văn Đồng, lên đường trên cao theo hướng cầu Thanh Trì để tiếp tục di chuyển về Quảng Ninh.
+
+Khi đi qua lối rẽ ra Đại lộ Thăng Long khoảng 100m (gần Cổng số 2 Trung tâm Hội nghị Quốc gia), do đường bị tắc, nhưng Bình vẫn yêu cầu anh B. điều khiển xe vào làn đường khẩn cấp để đi tiếp. Nhận thấy đối tượng có phần lơ là, anh B. lập tức mở cửa bỏ chạy.
+
+Lúc này, Bình leo lên ghế lái và điều khiển xe taxi bỏ trốn theo hướng cầu Thanh Trì. Khi xe di chuyển đến đoạn đường gom Vành đai 3, tiếp giáp nghĩa trang Cự Khối (phường Long Biên), Bình đã bị lực lượng công an khống chế, bắt giữ.
+
+Tại cơ quan công an, Bình khai nhận hành vi phạm tội. Qua kiểm tra nhanh, lực lượng chức năng phát hiện đối tượng dương tính với ma túy ketamine và cần sa.
+
+Cơ quan Cảnh sát điều tra Công an TP Hà Nội đang củng cố hồ sơ, xử lý nghiêm đối tượng theo quy định của pháp luật.

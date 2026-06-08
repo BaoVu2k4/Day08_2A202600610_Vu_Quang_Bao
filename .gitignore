@@ -8,3 +8,9 @@ PROGRESS_LOG.md
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Local Claude Code tool config
+.claude/
+
+# Vector store (generated, regenerate with `python -m src.task4_chunking_indexing`)
+data/vectorstore/
