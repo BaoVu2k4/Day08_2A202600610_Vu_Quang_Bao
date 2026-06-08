@@ -1,0 +1,10 @@
+# Local progress log (báo cáo cá nhân — không push)
+PROGRESS_LOG.md
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
