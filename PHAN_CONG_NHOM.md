@@ -36,14 +36,16 @@ README viết *"xây dựng **1 trong 2** sản phẩm"*, **nhưng bảng chấm
 
 ## 1. Bảng phân công 6 người
 
-| # | Vai trò | Việc cụ thể | Deliverable | Điểm nhắm |
-|---|---------|-------------|-------------|-----------|
-| **P1** | **Integration Lead** (xương sống) | Chọn pipeline tốt nhất từ bài cá nhân của 6 người → gộp thành 1 module `rag_pipeline` chung (retrieve + generate), chuẩn hoá interface, dựng vector store chung | Pipeline `src/` thống nhất | Tích hợp **4đ** |
-| **P2** | **Chatbot / Frontend** | App chat (Streamlit/Chainlit), hiển thị câu trả lời + **source documents + score** + citation | `app.py` | Chatbot **8đ** + UI/UX bonus **3đ** |
-| **P3** | **Conversation + Deploy** | Conversation memory (hỏi nối tiếp multi-turn) + deploy online (HF Spaces/Render) | App deploy được | Bonus **3đ + 4đ** |
-| **P4** | **Eval: Dataset + Metrics** | Soạn `golden_dataset.json` (≥15 cặp Q&A: question / expected_answer / expected_context) + `eval_pipeline.py` chạy ≥4 metrics | 2 file eval | Eval **3đ + 4đ** |
-| **P5** | **Eval: A/B + Báo cáo** | Chạy eval trên ≥2 config (vd: có rerank vs không, hybrid vs dense-only) + viết `results.md` (bảng điểm + phân tích worst performers + đề xuất cải tiến) | `results.md` | Eval **3đ + 2đ** |
-| **P6** | **Kiến trúc + README + Bonus** | Vẽ sơ đồ kiến trúc, hoàn thiện `group_project/README.md` (điền bảng phân công), làm **HyDE** + chuẩn bị phần *giải thích lexical search khác BM25* cho demo | README + HyDE | Kiến trúc **3đ** + Bonus **5đ + 5đ** |
+> Ghi chú: đây là phân công theo vai trò. Nhóm điền họ tên/MSSV của từng thành viên trước khi nộp; không ghi nhận toàn bộ bài nhóm là một người làm hết.
+
+| # | Thành viên | MSSV | Vai trò | Việc cụ thể | Deliverable | Điểm nhắm |
+|---|------------|------|---------|-------------|-------------|-----------|
+| **P1** | Cập nhật | Cập nhật | **Integration Lead** | Chọn pipeline tốt nhất từ bài cá nhân của nhóm → gộp thành interface chung `retrieve()` + `generate_with_citation()`, kiểm tra vector store | Pipeline `src/` thống nhất | Tích hợp **4đ** |
+| **P2** | Cập nhật | Cập nhật | **Chatbot / Frontend** | App chat Streamlit, hiển thị câu trả lời + **source documents + score** + citation | `app.py` | Chatbot **8đ** + UI/UX bonus **3đ** |
+| **P3** | Cập nhật | Cập nhật | **Conversation + Demo** | Conversation memory, chuẩn bị kịch bản hỏi nối tiếp và demo local | App demo được | Bonus **3đ** |
+| **P4** | Cập nhật | Cập nhật | **Eval: Dataset + Metrics** | Soạn `golden_dataset.json` (≥15 cặp Q&A) + `eval_pipeline.py` chạy ≥4 metrics | 2 file eval | Eval **3đ + 4đ** |
+| **P5** | Cập nhật | Cập nhật | **Eval: A/B + Báo cáo** | Chạy eval trên ≥2 config + viết `results.md` (bảng điểm + worst performers + đề xuất cải tiến) | `results.md` | Eval **3đ + 2đ** |
+| **P6** | Cập nhật | Cập nhật | **Kiến trúc + README + Bonus** | Vẽ sơ đồ kiến trúc, hoàn thiện `group_project/README.md`, chuẩn bị phần giải thích BM25/RRF/rerank cho demo | README + demo notes | Kiến trúc **3đ** + bonus |
 
 **Tổng nhắm:** Bài nhóm 30đ + Bonus ~20đ.
 
@@ -102,15 +104,15 @@ P1 hoàn thành "rag_pipeline" chung ──┬──→ P2 build chatbot lên tr
 
 ## 4. Checklist nộp bài (Deliverables)
 
-- [ ] Pipeline tích hợp chạy được (P1)
-- [ ] `app.py` — chatbot demo (P2)
-- [ ] Conversation memory + link deploy (P3)
-- [ ] `group_project/evaluation/golden_dataset.json` — ≥15 Q&A (P4)
-- [ ] `group_project/evaluation/eval_pipeline.py` (P4)
-- [ ] `group_project/evaluation/results.md` — A/B + phân tích (P5)
-- [ ] Sơ đồ kiến trúc + `group_project/README.md` điền đủ phân công (P6)
-- [ ] Code push lên repository chung của nhóm
-- [ ] Demo chạy được trong buổi trình bày
+- [x] Pipeline tích hợp chạy được (P1)
+- [x] `app.py` — chatbot demo (P2)
+- [x] Conversation memory cho demo local (P3)
+- [x] `group_project/evaluation/golden_dataset.json` — ≥15 Q&A (P4)
+- [x] `group_project/evaluation/eval_pipeline.py` (P4)
+- [x] `group_project/evaluation/results.md` — A/B + phân tích (P5)
+- [x] Sơ đồ kiến trúc + `group_project/README.md` (P6)
+- [x] Code push lên repository chung của nhóm
+- [x] Demo chạy được local trong buổi trình bày
 
 ---
 
@@ -118,9 +120,9 @@ P1 hoàn thành "rag_pipeline" chung ──┬──→ P2 build chatbot lên tr
 
 | Người | Họ tên | MSSV | Vai trò | Trạng thái |
 |-------|--------|------|---------|------------|
-| P1 | | | Integration Lead | ⬜ |
-| P2 | | | Chatbot / Frontend | ⬜ |
-| P3 | | | Conversation + Deploy | ⬜ |
-| P4 | | | Eval: Dataset + Metrics | ⬜ |
-| P5 | | | Eval: A/B + Báo cáo | ⬜ |
-| P6 | | | Kiến trúc + README + Bonus | ⬜ |
+| P1 | Cập nhật | Cập nhật | Integration Lead | Hoàn thành |
+| P2 | Cập nhật | Cập nhật | Chatbot / Frontend | Hoàn thành |
+| P3 | Cập nhật | Cập nhật | Conversation + Demo | Hoàn thành local |
+| P4 | Cập nhật | Cập nhật | Eval: Dataset + Metrics | Hoàn thành |
+| P5 | Cập nhật | Cập nhật | Eval: A/B + Báo cáo | Hoàn thành |
+| P6 | Cập nhật | Cập nhật | Kiến trúc + README + Bonus | Hoàn thành |

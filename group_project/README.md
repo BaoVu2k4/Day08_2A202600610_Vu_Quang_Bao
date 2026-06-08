@@ -41,14 +41,16 @@ flowchart LR
 
 ## Phân Công Công Việc
 
-| Thành viên | MSSV | Vai trò | Nhiệm vụ | Trạng thái |
-|-----------|------|---------|----------|------------|
-| P1 | | Integration Lead | Chuẩn hóa pipeline `retrieve()` và `generate_with_citation()` | Hoàn thành |
-| P2 | | Chatbot / Frontend | Xây Streamlit app, hiển thị answer + source + score | Hoàn thành |
-| P3 | | Conversation + Deploy | Memory hội thoại, chuẩn bị deploy Hugging Face/Render | Hoàn thành local |
-| P4 | | Eval Dataset + Metrics | Tạo golden dataset >=15 Q&A, implement 4 metric | Hoàn thành |
-| P5 | | A/B + Report | So sánh rerank on/off, phân tích worst performers | Hoàn thành |
-| P6 | | Architecture + README | Diagram, hướng dẫn chạy, phần giải thích demo | Hoàn thành |
+> Ghi chú: bảng dưới là phân công theo vai trò cho 6 thành viên. Nhóm cập nhật họ tên/MSSV trước khi nộp chính thức; không gán toàn bộ deliverable cho một cá nhân.
+
+| Thành viên | Họ tên | MSSV | Vai trò | Nhiệm vụ | Trạng thái |
+|-----------|--------|------|---------|----------|------------|
+| P1 | Cập nhật | Cập nhật | Integration Lead | Chuẩn hóa pipeline `retrieve()` và `generate_with_citation()`, kiểm tra vector store chung | Hoàn thành |
+| P2 | Cập nhật | Cập nhật | Chatbot / Frontend | Xây Streamlit app, hiển thị answer + source + score | Hoàn thành |
+| P3 | Cập nhật | Cập nhật | Conversation + Demo | Memory hội thoại, chuẩn bị kịch bản demo local | Hoàn thành local |
+| P4 | Cập nhật | Cập nhật | Eval Dataset + Metrics | Tạo golden dataset >=15 Q&A, implement 4 metric | Hoàn thành |
+| P5 | Cập nhật | Cập nhật | A/B + Report | So sánh rerank on/off, phân tích worst performers | Hoàn thành |
+| P6 | Cập nhật | Cập nhật | Architecture + README | Diagram, hướng dẫn chạy, phần giải thích demo | Hoàn thành |
 
 ## Hướng Dẫn Chạy
 

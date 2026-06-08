@@ -517,20 +517,22 @@ run_dashboard()
 
 ### Kiến Trúc Hệ Thống
 
-```
-[Vẽ diagram kiến trúc ở đây]
-```
+Xem sơ đồ kiến trúc chi tiết trong `group_project/README.md`.
 
 ---
 
 ### Phân Công Công Việc
 
-| Thành viên | MSSV | Nhiệm vụ | Trạng thái |
-|-----------|------|----------|------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+> Bảng dưới là phân công theo vai trò cho nhóm. Họ tên/MSSV từng thành viên cập nhật trong `group_project/README.md` trước khi nộp chính thức; không gán toàn bộ bài nhóm cho một cá nhân.
+
+| Thành viên | Vai trò | Nhiệm vụ | Trạng thái |
+|-----------|---------|----------|------------|
+| P1 | Integration Lead | Chuẩn hóa pipeline và vector store chung | Hoàn thành |
+| P2 | Chatbot / Frontend | Xây Streamlit chatbot, hiển thị source và score | Hoàn thành |
+| P3 | Conversation + Demo | Memory hội thoại và kịch bản demo local | Hoàn thành local |
+| P4 | Eval Dataset + Metrics | Golden dataset >=15 Q&A và 4 metric | Hoàn thành |
+| P5 | A/B + Report | So sánh rerank on/off, worst performers, recommendations | Hoàn thành |
+| P6 | Architecture + README | Diagram, README, demo notes | Hoàn thành |
 
 ---
 
