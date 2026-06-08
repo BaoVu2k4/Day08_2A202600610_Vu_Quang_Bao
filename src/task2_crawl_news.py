@@ -37,6 +37,7 @@ ARTICLE_SELECTORS = {
     "vietnamnet.vn": "div.maincontent, div.ArticleContent, article",
     "vov.vn": "div.article-content, div#article-body, article",
     "tuoitre.vn": "div#main-detail-body, div.detail-content, article",
+    "thanhnien.vn": "div.detail-content, div#abody, article",
 }
 
 
@@ -45,14 +46,22 @@ def setup_directory():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# Bài báo về nghệ sĩ Việt Nam liên quan tới ma tuý (2024-2026), từ các báo uy tín.
+# Bài báo về nghệ sĩ Việt Nam liên quan tới ma tuý (2018-2026), từ các báo uy tín.
+# Đa dạng nhiều nghệ sĩ/vụ việc khác nhau (không chỉ tập trung vào 1 người):
+#   - Miu Lê (bị bắt quả tang sử dụng ma tuý, 2025)
+#   - Châu Việt Cường (ngáo đá, gây ra cái chết của 1 cô gái, 2018)
+#   - Chi Dân & An Tây & Trúc Phương (đường dây ma tuý "VN10", 2024)
+#   - Bình Gold (rapper, dương tính ma tuý + cướp tài sản, 2025)
+#   - 2 bài tổng hợp nhiều nghệ sĩ Việt dính ma tuý qua các thời kỳ
 ARTICLE_URLS = [
     "https://vnexpress.net/ca-si-miu-le-bi-bat-qua-tang-dung-ma-tuy-o-bai-bien-5072657.html",
-    "https://vnexpress.net/su-nghiep-cua-miu-le-truoc-khi-bi-bat-qua-tang-dung-ma-tuy-5072762.html",
-    "https://vietnamnet.vn/3-nu-nghe-si-viet-tu-huy-danh-tieng-vi-lien-quan-den-ma-tuy-2514737.html",
+    "https://vnexpress.net/ca-si-chau-viet-cuong-hau-toa-vi-nhet-toi-hai-chet-co-gai-20-tuoi-3890738.html",
+    "https://vnexpress.net/nguoi-mau-andrea-aybar-va-ca-si-chi-dan-bi-bat-4814295.html",
+    "https://tuoitre.vn/bat-nguoi-mau-an-tay-ca-si-chi-dan-co-tien-truc-phuong-do-lien-quan-ma-tuy-20241114114826655.htm",
+    "https://tuoitre.vn/rapper-binh-gold-bi-bat-vi-cuop-tai-san-duong-tinh-voi-ma-tuy-20250726185902989.htm",
+    "https://vietnamnet.vn/rapper-binh-gold-bi-bat-vi-cuop-taxi-duong-tinh-voi-ma-tuy-2426027.html",
     "https://vietnamnet.vn/sao-viet-bi-bat-ngoi-tu-mat-danh-tieng-vi-chat-cam-2513746.html",
     "https://vov.vn/giai-tri/chua-day-1-thang-3-nghe-si-viet-bi-khoi-to-vi-lien-quan-ma-tuy-gay-chan-dong-post1293496.vov",
-    "https://tuoitre.vn/vien-kiem-sat-tp-hcm-nhieu-nghe-si-nguoi-noi-tieng-bi-khoi-to-do-lien-quan-ma-tuy-20251209142132042.htm",
 ]
 
 
