@@ -18,9 +18,33 @@ Gợi ý văn bản:
     - Nghị định 57/2022/NĐ-CP về danh mục chất ma tuý
 """
 
+import requests
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+
+# Direct links lấy từ Cổng Thông tin điện tử Chính phủ (chinhphu.vn / datafiles.chinhphu.vn),
+# nguồn chính thống — đã verify tải về thành công (HTTP 200, application/pdf).
+LEGAL_DOCS = [
+    {
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/01/73luat.pdf",
+        "filename": "luat-phong-chong-ma-tuy-2021.pdf",
+    },
+    {
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/12/105.signed_02.pdf",
+        "filename": "nghi-dinh-105-2021.pdf",
+    },
+    {
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/135-vbhn-vpqh.pdf",
+        "filename": "bo-luat-hinh-su-2015.pdf",
+    },
+    {
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/08/57-cp.signed.pdf",
+        "filename": "nghi-dinh-57-2022-danh-muc-chat-ma-tuy.pdf",
+    },
+]
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 
 def setup_directory():
@@ -29,19 +53,26 @@ def setup_directory():
     print(f"✓ Thư mục đã sẵn sàng: {DATA_DIR}")
 
 
-# TODO: Tải file PDF/DOCX về DATA_DIR
-# Có thể tải thủ công hoặc viết script download nếu có direct link.
-#
-# Ví dụ nếu có direct link:
-#
-# import requests
-#
-# def download_file(url: str, filename: str):
-#     response = requests.get(url)
-#     filepath = DATA_DIR / filename
-#     filepath.write_bytes(response.content)
-#     print(f"✓ Đã tải: {filepath}")
+def download_file(url: str, filename: str):
+    """Tải 1 file PDF/DOCX từ direct link và lưu vào DATA_DIR."""
+    filepath = DATA_DIR / filename
+    if filepath.exists():
+        print(f"  ↷ Đã tồn tại, bỏ qua: {filepath.name}")
+        return
+
+    response = requests.get(url, headers=HEADERS, timeout=60)
+    response.raise_for_status()
+    filepath.write_bytes(response.content)
+    print(f"  ✓ Đã tải ({len(response.content):,} bytes): {filepath.name}")
+
+
+def download_all():
+    """Tải toàn bộ văn bản pháp luật trong LEGAL_DOCS."""
+    setup_directory()
+    for doc in LEGAL_DOCS:
+        print(f"Downloading: {doc['filename']}")
+        download_file(doc["url"], doc["filename"])
 
 
 if __name__ == "__main__":
-    setup_directory()
+    download_all()
