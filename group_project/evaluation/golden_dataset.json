@@ -1,17 +1,92 @@
 [
   {
-    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
-    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+    "question": "Luật Phòng, chống ma túy 2021 quy định phạm vi điều chỉnh gồm những nội dung nào?",
+    "expected_answer": "Luật quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 1",
+    "category": "legal"
   },
   {
-    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+    "question": "Theo Luật Phòng, chống ma túy 2021, chất ma túy được hiểu là gì?",
+    "expected_answer": "Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 2",
+    "category": "legal"
   },
   {
-    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "question": "Luật Phòng, chống ma túy 2021 giải thích chất gây nghiện như thế nào?",
+    "expected_answer": "Chất gây nghiện là chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng nghiện đối với người sử dụng.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 2",
+    "category": "legal"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy 2021 quy định những hình thức cai nghiện ma túy nào?",
+    "expected_answer": "Các hình thức gồm cai nghiện ma túy tự nguyện và cai nghiện ma túy bắt buộc.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Chương V",
+    "category": "legal"
+  },
+  {
+    "question": "Bộ luật Hình sự 2015 có chương nào quy định các tội phạm về ma túy?",
+    "expected_answer": "Các tội phạm về ma túy được quy định tại Chương XX của Bộ luật Hình sự 2015.",
+    "expected_context": "Bộ luật Hình sự 2015, Chương XX",
+    "category": "legal"
+  },
+  {
+    "question": "Điều 249 Bộ luật Hình sự quy định về tội danh nào liên quan đến ma túy?",
+    "expected_answer": "Điều 249 quy định tội tàng trữ trái phép chất ma túy.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 249",
+    "category": "legal"
+  },
+  {
+    "question": "Điều 248 Bộ luật Hình sự quy định về hành vi nào?",
+    "expected_answer": "Điều 248 quy định tội sản xuất trái phép chất ma túy.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 248",
+    "category": "legal"
+  },
+  {
+    "question": "Điều 250 Bộ luật Hình sự liên quan đến tội gì?",
+    "expected_answer": "Điều 250 quy định tội vận chuyển trái phép chất ma túy.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 250",
+    "category": "legal"
+  },
+  {
+    "question": "Bài VnExpress về ca sĩ Miu Lê nêu lực lượng chức năng kiểm tra nhóm người ở đâu?",
+    "expected_answer": "Công an kiểm tra khu vực bãi tắm ở thôn 2 Cát Bà và đưa 6 người nghi sử dụng ma túy về trụ sở.",
+    "expected_context": "article_01.md, VnExpress, Miu Lê",
+    "category": "news"
+  },
+  {
+    "question": "Theo bài về Miu Lê, kết quả xét nghiệm nhanh của nhóm người cho thấy điều gì?",
+    "expected_answer": "Kết quả xét nghiệm nhanh cho thấy 6 người dương tính với ma túy; trong đó Miu Lê dương tính với Methamphetamine, Ketamine và MDMA.",
+    "expected_context": "article_01.md, VnExpress, Miu Lê",
+    "category": "news"
+  },
+  {
+    "question": "Bài VnExpress về Châu Việt Cường liên quan đến vụ việc gì?",
+    "expected_answer": "Bài báo nói về vụ Châu Việt Cường hầu tòa vì nhét tỏi khiến một cô gái 20 tuổi tử vong trong trạng thái liên quan ma túy.",
+    "expected_context": "article_02.md, VnExpress, Châu Việt Cường",
+    "category": "news"
+  },
+  {
+    "question": "Bài VnExpress về Andrea Aybar và Chi Dân cho biết những ai bị bắt?",
+    "expected_answer": "Bài báo cho biết người mẫu Andrea Aybar và ca sĩ Chi Dân bị bắt trong vụ việc liên quan đến ma túy.",
+    "expected_context": "article_03.md, VnExpress, Andrea Aybar, Chi Dân",
+    "category": "news"
+  },
+  {
+    "question": "Bài Tuổi Trẻ về An Tây, Chi Dân và Trúc Phương nói họ liên quan đến vấn đề gì?",
+    "expected_answer": "Bài báo nói An Tây, Chi Dân và Trúc Phương liên quan đến ma túy trong đường dây hoặc vụ án được cơ quan chức năng điều tra.",
+    "expected_context": "article_04.md, Tuổi Trẻ, An Tây, Chi Dân, Trúc Phương",
+    "category": "news"
+  },
+  {
+    "question": "Bài Tuổi Trẻ về Bình Gold cho biết rapper này bị bắt vì lý do gì?",
+    "expected_answer": "Bình Gold bị bắt vì cướp tài sản và kết quả cho thấy dương tính với ma túy.",
+    "expected_context": "article_05.md, Tuổi Trẻ, Bình Gold",
+    "category": "news"
+  },
+  {
+    "question": "Bài VietnamNet về Bình Gold nêu vụ việc liên quan đến phương tiện gì?",
+    "expected_answer": "Bài VietnamNet nêu Bình Gold bị bắt vì cướp taxi và dương tính với ma túy.",
+    "expected_context": "article_06.md, VietnamNet, Bình Gold",
+    "category": "news"
   }
 ]
